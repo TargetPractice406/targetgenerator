@@ -1,2 +1,2 @@
-# targetgenerator
+# Target Generator
 Generate Target Images
